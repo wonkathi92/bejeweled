@@ -1,0 +1,18 @@
+{
+  "appID": "1d08145b4e9547c9926280ac6fc48cc4",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#"
+  },
+  "shortName": "bejeweled",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "bejeweled",
+  "icon": "resources/icons/icon512.png"
+}
